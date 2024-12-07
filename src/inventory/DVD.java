@@ -6,7 +6,8 @@ package inventory;
 
 /**
  *
- * @author porto
+ *
+ * 
  */
 public class DVD extends Product {
     private int length;
